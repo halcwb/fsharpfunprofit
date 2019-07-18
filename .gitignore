@@ -1,0 +1,8 @@
+# Start with ignoring everything
+*
+
+# But not myself!
+!.gitignore
+
+# But not script files
+!*.fsx
